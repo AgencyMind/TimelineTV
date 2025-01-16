@@ -25,4 +25,4 @@ I'm planning to add in the object detection feature soon, bring a super cool upg
 
 4. Download the [controlnet model](https://huggingface.co/lllyasviel/ControlNet/blob/main/models/control_sd15_depth.pth) to `comfyui/models/controlnet`.
 
-5. In `comfyui/custom_nodes/` clone Depth Anything tensorrt and download the model. Follow the *exact* steps from Eric's setup at Step 3. 
+5. In comfyui/custom_nodes/ clone Depth Anything tensorrt and download the model. Follow the *exact* steps from Eric's setup at [Step 3](https://mirror.xyz/ericxtang.eth/KGZOOov49FVtwcOCVXt1LFt7tYXP2JrQ8JjWnY_Oow4)
